@@ -28,7 +28,7 @@
 
 ## Match Related Data
 - Who is playing
-- Injured 
+- Injured esp. key players
 - History of teams
 
 ## Misc. Data
@@ -38,8 +38,17 @@
 ## Further Readings
 - https://blog.coast.ai/this-is-how-i-used-machine-learning-to-accurately-predict-villanova-to-win-the-2016-march-madness-ba5c074f1583
 - http://ftw.usatoday.com/2016/04/villanova-bracket-winner
-- https://fivethirtyeight.com/features/how-we-calculate-nba-elo-ratings/
 - https://fivethirtyeight.com/features/how-our-2015-16-nba-predictions-work/
 - https://www.masseyratings.com
 - https://github.com/harvitronix/kaggle-march-madness-machine-learning
 - https://www.kaggle.com/c/march-machine-learning-mania-2017/data
+- [Career-Arc Regression Model Estimator with Local Optimization (CARMELO)](https://projects.fivethirtyeight.com/carmelo/)
+- [guide-sports-betting-online](https://www.ergosum.co/guide-sports-betting-online/)
+- [scraping-draft-kings](https://www.ergosum.co/scraping-draft-kings-contests/)
+
+## ELO
+- https://fivethirtyeight.com/features/how-we-calculate-nba-elo-ratings/
+- https://nbviewer.jupyter.org/github/sportsdatadirect/python_tutorials/blob/master/Power%20Rankings.ipynb
+- http://msinilo.pl/blog2/post/p1396/
+- https://fivethirtyeight.com/features/introducing-nfl-elo-ratings/
+- https://fivethirtyeight.com/features/nfl-elo-ratings-are-back/

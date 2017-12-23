@@ -1,5 +1,11 @@
+from modules.utils import calculate_elo
+
+
 def main():
-    pass
+    """
+    :return:
+    """
+    calculate_elo()
 
 
 if __name__ == '__main__':
