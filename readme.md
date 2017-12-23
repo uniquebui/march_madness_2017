@@ -52,3 +52,7 @@
 - http://msinilo.pl/blog2/post/p1396/
 - https://fivethirtyeight.com/features/introducing-nfl-elo-ratings/
 - https://fivethirtyeight.com/features/nfl-elo-ratings-are-back/
+- https://github.com/msinilo/nhl_rating
+- https://en.wikipedia.org/wiki/Elo_rating_system
+
+## glicko2
