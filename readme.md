@@ -54,5 +54,8 @@
 - https://fivethirtyeight.com/features/nfl-elo-ratings-are-back/
 - https://github.com/msinilo/nhl_rating
 - https://en.wikipedia.org/wiki/Elo_rating_system
+- http://www.code-zen.net/2012/calculating-ncaa-march-madness-bracket-using-chess-elo-predictive-scoring/
+- https://www.vanityfair.com/news/2017/03/march-madness-prediction-nate-silver-538-ncaa
 
 ## glicko2
+- https://de.wikipedia.org/wiki/Glicko-System
